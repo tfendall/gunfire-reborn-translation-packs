@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+backups/
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log

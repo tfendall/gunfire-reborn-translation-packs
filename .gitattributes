@@ -1,0 +1,4 @@
+# Preserve the exact bytes required by the game-compatible CSV export.
+*.csv -text
+*.md text eol=lf
+*.py text eol=lf
